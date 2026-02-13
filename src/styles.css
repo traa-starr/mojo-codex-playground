@@ -39,11 +39,19 @@ body {
   0%,
   100% {
     transform: translate3d(0, 0, 0);
+ codex/create-artistic-full-screen-webpage-in-react-y58juy
     opacity: 0.2;
   }
   50% {
     transform: translate3d(0, -22px, 0);
     opacity: 0.85;
+
+    opacity: 0.24;
+  }
+  50% {
+    transform: translate3d(0, -24px, 0);
+    opacity: 0.92;
+> main
   }
 }
 
